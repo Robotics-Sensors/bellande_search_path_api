@@ -22,8 +22,7 @@
 - 13D Space
 - 14D Space
 - 15D Space
-.....
-
-Infinity-Dimention Space
+- .....
+- Infinity-Dimention Space
 
 # Can also checkout portion of the docs at [Portion API DOCS](https://github.com/Robotics-Sensors/bellande_search/blob/main/api_docs.md)
