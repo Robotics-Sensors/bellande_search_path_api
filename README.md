@@ -10,12 +10,12 @@
 - Continuous Adaptive Path Search
 - Memory Retentions
 - Live Memory Retentions
-- Multi-Robots Path Search Planing
-- Live Multi-Robots Path Search Planing
-- Multi-Robots Search Path Planning Sharing
-- Live Multi-Robots Search Path Planning Sharing
-- Multi-Robots Share Search Path Improvement
-- Continuous Multi-Robots Share Search Path Improvement
+- Multi-Instance Path Search Planing
+- Live Multi-Instance Path Search Planing
+- Multi-Instance Search Path Planning Sharing
+- Live Multi-Instance Search Path Planning Sharing
+- Multi-Instance Share Search Path Improvement
+- Continuous Multi-Instance Share Search Path Improvement
 - More Features
 
 # Check Out Research Organization for open-source/semi-open-source API
