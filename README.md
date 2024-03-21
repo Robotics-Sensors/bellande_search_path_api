@@ -1,6 +1,22 @@
- # 📦 Bellande Search
- ## Multi-Dimensional/Infinity-Dimensional Search
- 
+# 📦 Bellande Search Path
+## Multi-Dimensional/Infinity-Dimensional Search Path
+
+## Features of Bellande Search Path
+- Multi-Dimensional Search and Path
+- Continuous Live Path Searching
+- Obstacle Avoidance
+- Continuous Live Obstacle Avoidance
+- Adaptive Path Search
+- Continuous Adaptive Path Search
+- Memory Retentions
+- Live Memory Retentions
+- Multi-Robots Path Search Planing
+- Live Multi-Robots Path Search Planing
+- Multi-Robots Search Path Planning Sharing
+- Live Multi-Robots Search Path Planning Sharing
+- Multi-Robots Share Search Path Improvement
+- Continuous Multi-Robots Share Search Path Improvement
+- More Features
 
 # Check Out Research Organization for open-source/semi-open-source API
 - https://robotics-sensors.github.io
