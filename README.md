@@ -1,5 +1,6 @@
 # 📦 Bellande Search Path
 ## Multi-Dimensional/Infinity-Dimensional Search Path
+## BSP(Bellande Search Path) Algorithm API
 
 ## Features of Bellande Search Path
 - Multi-Dimensional Search and Path
@@ -42,3 +43,6 @@
 - Infinity-Dimention Space
 
 # Can also checkout portion of the docs at [Portion API DOCS](https://github.com/Robotics-Sensors/bellande_search/blob/main/api_docs.md)
+
+## License
+This Algorithm or Models is distributed under the [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/), see [LICENSE](https://github.com/RonaldsonBellande/bellande_search_path/blob/main/LICENSE) and [NOTICE](https://github.com/RonaldsonBellande/bellande_search_path/blob/main/LICENSE) for more information.
