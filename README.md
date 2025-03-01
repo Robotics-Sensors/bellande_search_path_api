@@ -1,5 +1,6 @@
 # 📦 Bellande Search Path
 ## Multi-Dimensional/Infinity-Dimensional Search Path
+- Use Bellande API's to get the result below
 
 ## BSP(Bellande Search Path) Algorithm API
 - Bellande Step
