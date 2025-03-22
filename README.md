@@ -1,4 +1,4 @@
-# 📦 Bellande Search Path
+# 📦 Bellande Search Path API
 ## Multi-Dimensional/Infinity-Dimensional Search Path
 - Use Bellande API's to get the result below
 
@@ -47,7 +47,7 @@
 ![Bellande Search Path](./bellande_path_finding.png)
 
 ## Video/Gif
-![Bellande Search Path](./bellande_path_finding_gif.gif)
+![Bellande Search Path](./bellande_path_finding-gif.gif)
 
 # Check Out Research Organization for open-source/semi-open-source API
 - https://robotics-sensors.github.io
