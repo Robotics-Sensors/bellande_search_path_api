@@ -2,6 +2,10 @@
 ## Multi-Dimensional/Infinity-Dimensional Search Path
 - Use Bellande API's to get the result below
 
+# Bellande Application 
+- ```One of the features of Bellande Application is to install API's and use API locally without internet for Robotic Purposes or other Applications```
+![Bellande Application](./bellande_application_api.png)
+
 # BSP(Bellande Search Path) Algorithm API
 ## Bellande Step Calculations
 - https://git.bellande-technologies.com/BRSRI/bellande_step
