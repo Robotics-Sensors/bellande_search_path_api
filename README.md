@@ -7,6 +7,11 @@
 
 ![Bellande Application](./bellande_application_api.png)
 
+- https://git.bellande-technologies.com/BRSRI/bellande_search_path
+- https://github.com/Robotics-Sensors/bellande_search_path
+- https://gitlab.com/Bellande-Robotics-Sensors-Research-Innovation-Center/bellande_search_path
+- https://bitbucket.org/bellande-robotics-sensors/bellande_search_path
+
 # BSP(Bellande Search Path) Algorithm API
 ## Bellande Step Calculations
 - https://git.bellande-technologies.com/BRSRI/bellande_step
@@ -50,11 +55,6 @@
 - https://gitlab.com/Bellande-Robotics-Sensors-Research-Innovation-Center/bellande_segment
 - https://bitbucket.org/bellande-robotics-sensors/bellande_segment
 
-## Bellande Search Path Calculations
-- https://git.bellande-technologies.com/BRSRI/bellande_search_path
-- https://github.com/Robotics-Sensors/bellande_search_path
-- https://gitlab.com/Bellande-Robotics-Sensors-Research-Innovation-Center/bellande_search_path
-- https://bitbucket.org/bellande-robotics-sensors/bellande_search_path
 
 ## Images
 ![Bellande Search Path](./bellande_path_finding.png)
